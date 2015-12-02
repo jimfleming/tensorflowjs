@@ -1,0 +1,10 @@
+{
+  "name": "tensorflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ffi": "^2.0.0",
+    "ref": "^1.2.0",
+    "ref-array": "^1.1.2"
+  }
+}
